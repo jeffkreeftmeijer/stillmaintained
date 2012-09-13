@@ -1,4 +1,4 @@
-stillmaintained
-===============
+StillMaintained?
+================
 
-Stillmaintained has moved to stillmaintained/stillmaintained
+StillMaintained has moved to [stillmaintained/stillmaintained](http://github.com/stillmaintained/stillmaintained).
